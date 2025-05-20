@@ -1,0 +1,12 @@
+aiohttp
+python-dotenv
+openai-whisper
+pydub
+torch
+TTS
+requests
+moviepy
+gruut[de,es,fr]>=2.4.0
+librosa>=0.11.0
+numpy>=1.25.2
+scipy>=1.13.0
